@@ -13,8 +13,8 @@ import java.util.Scanner;
 public class NewsApplication {
 
     private static final String API_URL = "https://api.worldnewsapi.com/top-news";
-    private static final String API_KEY = "6f54e612016246789b00b46948a9679d";
-    private static final String SEPARATOR = "=" .repeat(80);
+    private static final String API_KEY = "process.env.API_KEY";
+    private static final String SEPARATOR = "=".repeat(80);
     private static final String LINE_SEPARATOR = "-".repeat(80);
 
     private final Scanner scanner;
