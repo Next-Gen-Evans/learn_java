@@ -132,7 +132,7 @@ class Transversal_Stock_Algorithm {
 - **🌐 Passionate about tech that changes lives and builds a better world.**
 - **🌐Continuous learning & innovation.**
 
-If you found this helpful, give it a ⭐ on GitHub!
+If you found this helpful, give it a ⭐!
 
 <div align="center">
 
