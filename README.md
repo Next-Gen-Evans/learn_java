@@ -137,5 +137,3 @@ If you found this helpful, give it a ⭐ on GitHub!
 <div align="center">
 
 ### 🌟 **Thanks for Visiting!** 🌟
-
-If you found this helpful, give it a ⭐ on GitHub!
