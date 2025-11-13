@@ -125,5 +125,17 @@ class Transversal_Stock_Algorithm {
 ## ⭐ Acknowledgements
 - [GeeksforGeeks – Stock Buy and Sell Problem](https://www.geeksforgeeks.org/)
 
+# 👨‍💻 Author
+- **Evans Mutharimi Buongo**
+- **📍 Meru University of Science and Technology, Kenya 🇰🇪**
+- **💼 Developer | Innovator | Future Technologist | Software engineer**
+- **🌐 Passionate about tech that changes lives and builds a better world.**
+- **🌐Continuous learning & innovation.**
+
 If you found this helpful, give it a ⭐ on GitHub!
 
+<div align="center">
+
+### 🌟 **Thanks for Visiting!** 🌟
+
+If you found this helpful, give it a ⭐ on GitHub!
